@@ -24,13 +24,23 @@ This project helps students, researchers, and developers test transportation ana
 - Simulate driver health and traffic conditions
 - Test telematics and smart mobility applications
 
+🧠 How It Works
+
+Randomized data points are generated for GPS, speed, altitude, traffic, and driver health metrics.
+
+Route is either random, city-to-city, or manually defined.
+
+Each point is time-stamped and smoothed for realism.
+
+The Streamlit dashboard allows visualization, previewing, and exporting data.
+
 ## 📦 Installation & Setup
 
 ### Clone the repository
 
 ```bash
 git clone https://github.com/SandhyaMahesh1410/OBDTripSimulator.git
-cd OBDTripSimulatorV2
+cd OBDTripSimulator-main
 ```
 
 ### Install dependencies

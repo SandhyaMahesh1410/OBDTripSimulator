@@ -29,7 +29,7 @@ This project helps students, researchers, and developers test transportation ana
 ### Clone the repository
 
 ```bash
-git clone https://github.com/DevanandanaS/OBDTripSimulatorV2.git
+git clone https://github.com/SandhyaMahesh1410/OBDTripSimulator.git
 cd OBDTripSimulatorV2
 ```
 

@@ -6,15 +6,15 @@ This project helps students, researchers, and developers test transportation ana
 
 ## Key Features
 
-- 🛣️ Realistic road-based trip generation using OSRM routing
-- 🚦 Traffic-aware driving simulation
-- ❤️ Driver health monitoring (Heart Rate & Breathing Rate)
-- 🍺 Normal Driver and Drunk Driver dataset generation
-- ⛰️ Altitude estimation across Taiwan routes
-- 🗺️ Interactive route visualization with Folium
-- 📊 Driver health analytics and comparison graphs
-- 📤 CSV dataset export
-- 💬 Chatbot UI prototype for future trip assistance
+-  Realistic road-based trip generation using OSRM routing
+-  Traffic-aware driving simulation
+-  Driver health monitoring (Heart Rate & Breathing Rate)
+-  Normal Driver and Drunk Driver dataset generation
+-  Altitude estimation across Taiwan routes
+-  Interactive route visualization with Folium
+-  Driver health analytics and comparison graphs
+-  CSV dataset export
+-  Chatbot UI prototype for future trip assistance
 
 ## Usage
 

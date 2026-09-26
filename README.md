@@ -1,10 +1,10 @@
-# 🚗 OBD Trip Simulator V2
+# OBD Trip Simulator V2
 
 A Streamlit-based OBD-II trip simulator that generates realistic synthetic vehicle and driver health data using road-based routes across Taiwan.
 
 This project helps students, researchers, and developers test transportation analytics, AI/ML models, and telematics systems without requiring real OBD devices.
 
-## 🧩 Key Features
+## Key Features
 
 - 🛣️ Realistic road-based trip generation using OSRM routing
 - 🚦 Traffic-aware driving simulation
@@ -16,7 +16,7 @@ This project helps students, researchers, and developers test transportation ana
 - 📤 CSV dataset export
 - 💬 Chatbot UI prototype for future trip assistance
 
-## 🎯 Usage
+## Usage
 
 - Generate synthetic OBD-II and GPS datasets
 - Compare normal and impaired driving patterns
@@ -24,7 +24,7 @@ This project helps students, researchers, and developers test transportation ana
 - Simulate driver health and traffic conditions
 - Test telematics and smart mobility applications
 
-🧠 How It Works
+How It Works
 
 Randomized data points are generated for GPS, speed, altitude, traffic, and driver health metrics.
 
@@ -34,7 +34,7 @@ Each point is time-stamped and smoothed for realism.
 
 The Streamlit dashboard allows visualization, previewing, and exporting data.
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### Clone the repository
 
